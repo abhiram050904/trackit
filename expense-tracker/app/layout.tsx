@@ -14,7 +14,7 @@ import {
 const inter=Inter({subsets:["latin"]})
 
 export const metadata: Metadata = {
-  title: "Trackit",
+  title: "TrackIt",
   description: "With intuitive dashboards, real-time expense tracking, smart budget suggestions, and insightful analytics, you'll always know where your money is going — and how to make it work for you.",
 };
 

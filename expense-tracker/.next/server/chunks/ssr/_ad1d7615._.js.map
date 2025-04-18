@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/abhir/OneDrive/Documents/mern-projects/expense-tracker/expense-tracker/components/Hero.tsx"],"sourcesContent":["\"use client\"\r\nimport React from 'react'\r\n\r\nconst Hero = () => {\r\n  return (\r\n    <div className='pb-20 px-4'>\r\n      <div>\r\n        <h1>Mange Your Expenses <br/> with TrackIt</h1>\r\n      </div>\r\n    </div>\r\n  )\r\n}\r\n\r\nexport default Hero\r\n"],"names":[],"mappings":";;;;AAAA;;AAGA,MAAM,OAAO;IACX,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC;sBACC,cAAA,8OAAC;;oBAAG;kCAAoB,8OAAC;;;;;oBAAI;;;;;;;;;;;;;;;;;AAIrC;uCAEe","debugId":null}},
+    {"offset": {"line": 49, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/abhir/OneDrive/Documents/mern-projects/expense-tracker/expense-tracker/node_modules/next/src/server/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = require('../../module.compiled').vendored[\n  'react-ssr'\n].ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":";AAAAA,OAAOC,OAAO,GAAGC,QAAQ,4HAAyBC,QAAQ,CACxD,YACD,CAACC,kBAAkB","ignoreList":[0],"debugId":null}}]
+}
